@@ -1,5 +1,9 @@
 # Barometer::ForecastIo
 
+[![Build Status](https://travis-ci.org/attack/barometer-forecast_io.png?branch=master)](https://travis-ci.org/attack/barometer-forecast_io)
+[![Gem Version](https://badge.fury.io/rb/barometer-forecast_io.png)](http://badge.fury.io/rb/barometer-forecast_io)
+[![Code Climate](https://codeclimate.com/github/attack/barometer-forecast_io.png)](https://codeclimate.com/github/attack/barometer-forecast_io)
+
 A wrapper for the forecast.io weather API. This wrapper is
 barometer compatiable and can be used with or without barometer.
 
@@ -41,3 +45,13 @@ Then follow the instructions provided by [Barometer](https://github.com/attack/b
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Links
+
+* repo: http://github.com/attack/barometer-forecast_io
+* travis ci: https://travis-ci.org/attack/barometer-forecast_io
+* code climate: https://codeclimate.com/github/attack/barometer-forecast_io
+
+## Copyright
+
+Copyright (c) 2009-2013 Mark G. See LICENSE for details.
