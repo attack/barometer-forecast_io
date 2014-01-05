@@ -54,4 +54,4 @@ Then follow the instructions provided by [Barometer](https://github.com/attack/b
 
 ## Copyright
 
-Copyright (c) 2009-2013 Mark G. See LICENSE for details.
+Copyright (c) 2009-2014 Mark Gangl. See LICENSE for details.
