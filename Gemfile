@@ -10,6 +10,7 @@ end
 
 group :development, :test do
   gem 'barometer-support'
+  gem 'multi_json'
   gem 'vcr'
   gem 'webmock'
 end
